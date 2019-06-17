@@ -26,6 +26,7 @@
 //
 #ifndef _CAN29_H_
 #define _CAN29_H_
+#include <arpa/inet.h>
 
 #include "../../MMDevice/MMDevice.h"
 #include "../../MMDevice/DeviceBase.h"

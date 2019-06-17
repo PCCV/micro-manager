@@ -50,7 +50,7 @@
 #pragma warning(disable: 4610)
 #endif // _MSC_VER
 
-#include <uEye.h>
+#include <ueye.h>
 
 #ifdef _MSC_VER
 #pragma warning(pop)
